@@ -1,0 +1,9 @@
+- Install Required Packages
+- Text Generation
+- Use LangChain to Access Gemini API
+- Gemini Pro Vision
+  - In Context Information Retreival
+  - Download the document
+  - Extract text from the PDF
+  - Prompt Design - In Context
+  - RAG Pipeline Embedding + LLM
